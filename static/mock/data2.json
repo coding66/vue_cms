@@ -1,0 +1,32 @@
+{
+    "listarr":[
+    {
+        title:'全部',
+        status:0
+    },
+    {
+        title:'商务车',
+        status:0
+    },
+    {
+        title:'面包车',
+        status:0
+    },
+    {
+        title:'轿车',
+        status:0
+    },
+    {
+        title:'SUV',
+        status:0
+    },
+    {
+        title:'MPV',
+        status:0
+    },
+    {
+        title:'跑车',
+        status:0
+    },
+    ]
+}
