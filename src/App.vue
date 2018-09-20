@@ -1,6 +1,6 @@
 <template>
   <div id='app' class='content'>
-    <mt-header fixed title="第一个vue案例"></mt-header>
+    <mt-header fixed title="图文信息"></mt-header>
     <nav class="mui-bar mui-bar-tab">
       <router-link class="mui-tab-item1" to='/home'>
         <span class="mui-icon mui-icon-home"></span>
